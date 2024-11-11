@@ -1,2 +1,3 @@
-# .github
-Welcome page
+# Kubernauten
+
+We learn togehter! We grow together!
