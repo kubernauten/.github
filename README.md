@@ -11,22 +11,22 @@ spezialisiert haben. Wir helfen Unternehmen, ihre Infrastruktur zu modernisieren
 und ihre Anwendungen zu skalieren, indem wir die neuesten Technologien und
 Best Practices einsetzen.
 
-## Table of Contents
+## Inhaltsverzeichnis
 
 - [Kubernauten](#kubernauten)
-  - [Introduction](#introduction)
-  - [Contributing](#contributing)
-  - [License](#license)
+  - [Einleitung](#einleitung)
+  - [Mitmachen](#mitmachen)
+  - [Lizenz](#lizenz)
 
-## Introduction
+## Einleitung
 
 Kubernetes ist eine Open-Source-Plattform zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von Container-Anwendungen.
 Es ermöglicht Entwicklern, Anwendungen in Containern zu verpacken, zu verteilen und zu skalieren, um die Bereitstellung und Verwaltung von Anwendungen zu vereinfachen.
 
-## Contributing
+## Mitmachen
 
 Wir freuen uns über Beiträge von der Community! Wenn du einen Fehler gefunden hast oder eine Verbesserung vorschlagen möchtest, erstelle einfach ein Issue oder einen Pull Request.
 
-## License
+## Lizenz
 
 [GNU GENERAL PUBLIC LICENSE](./LICENSE)
