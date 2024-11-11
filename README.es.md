@@ -25,7 +25,7 @@ Permite a los desarrolladores empaquetar, distribuir y escalar aplicaciones en c
 
 ## Participar
 
-Wir freuen uns über Beiträge von der Community! Wenn du einen Fehler gefunden hast oder eine Verbesserung vorschlagen möchtest, erstelle einfach ein Issue oder einen Pull Request.
+¡Agradecemos las contribuciones de la comunidad! Si encontró un error o desea sugerir una mejora, simplemente cree un problema o una solicitud de extracción.
 
 ## Licencia
 
