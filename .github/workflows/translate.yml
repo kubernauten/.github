@@ -22,11 +22,15 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: fr
-      - name: Adding README - English
+      - name: Adding README - German
         uses: dephraiim/translate-readme@main
         with:
-          LANG: en
+          LANG: de
       - name: Adding README - Español
         uses: dephraiim/translate-readme@main
         with:
           LANG: es
+      - name: Adding README - Italian
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: it

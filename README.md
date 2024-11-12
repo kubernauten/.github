@@ -1,32 +1,34 @@
-# Kubernauten
+# Kubernaut
 
 > From zero to hero in Kubernetes!
 > We learn together! We grow together!
 
-Wir sind die Kubernauten und wir haben uns auf die Fahne geschrieben,
-die Welt der Container-Orchestrierung zu erobern.
-Wir sind ein Team von DevOps-Experten, die sich auf die Automatisierung
-von Prozessen und die Bereitstellung von Anwendungen in der Cloud
-spezialisiert haben. Wir helfen Unternehmen, ihre Infrastruktur zu modernisieren
-und ihre Anwendungen zu skalieren, indem wir die neuesten Technologien und
-Best Practices einsetzen.
+[🇩🇪](./README.de.md) | [🇬🇧](./README.md) | [🇪🇸](./README.es.md) | [🇫🇷](./README.fr.md) | [🇮🇹](./README.it.md) 
 
-## Inhaltsverzeichnis
+We are the Kubernauts and we are committed to
+to conquer the world of container orchestration.
+We are a team of DevOps experts focused on automation
+of processes and the provision of applications in the cloud
+have specialized. We help companies modernize their infrastructure
+and scale your applications using the latest technologies and
+Use best practices.
 
-- [Kubernauten](#kubernauten)
-  - [Einleitung](#einleitung)
-  - [Mitmachen](#mitmachen)
-  - [Lizenz](#lizenz)
+## Table of contents
 
-## Einleitung
+-   [Kubernaut](#kubernauten)
+-   [Introduction](#einleitung)
+-   [Join in](#mitmachen)
+-   [License](#lizenz)
 
-Kubernetes ist eine Open-Source-Plattform zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von Container-Anwendungen.
-Es ermöglicht Entwicklern, Anwendungen in Containern zu verpacken, zu verteilen und zu skalieren, um die Bereitstellung und Verwaltung von Anwendungen zu vereinfachen.
+## Introduction
 
-## Mitmachen
+Kubernetes is an open source platform for automating the deployment, scaling, and management of containerized applications.
+It allows developers to package, distribute, and scale applications in containers to simplify application deployment and management.
 
-Wir freuen uns über Beiträge von der Community! Wenn du einen Fehler gefunden hast oder eine Verbesserung vorschlagen möchtest, erstelle einfach ein Issue oder einen Pull Request.
+## Join in
 
-## Lizenz
+We welcome contributions from the community! If you found a bug or want to suggest an improvement, simply create an issue or pull request.
+
+## License
 
 [GNU GENERAL PUBLIC LICENSE](./LICENSE)

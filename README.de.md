@@ -14,9 +14,9 @@ Best Practices einsetzen.
 ## Inhaltsverzeichnis
 
 - [Kubernauten](#kubernauten)
-  - [Einleitung](#einleitung)
-  - [Mitmachen](#mitmachen)
-  - [Lizenz](#lizenz)
+    - [Einleitung](#einleitung)
+    - [Mitmachen](#mitmachen)
+    - [Lizenz](#lizenz)
 
 ## Einleitung
 
@@ -30,3 +30,4 @@ Wir freuen uns über Beiträge von der Community! Wenn du einen Fehler gefunden 
 ## Lizenz
 
 [GNU GENERAL PUBLIC LICENSE](./LICENSE)
+
