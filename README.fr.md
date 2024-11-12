@@ -3,6 +3,8 @@
 > De zéro à héros dans Kubernetes !
 > On apprend ensemble ! Nous grandissons ensemble !
 
+[🇩🇪](./README.de.md)\|[🇬🇧](./README.md)\|[🇪🇸](./README.es.md)\|[🇫🇷](./README.fr.md)\|[🇮🇹](./README.it.md)
+
 Nous sommes les Kubernauts et nous nous engageons à
 pour conquérir le monde de l'orchestration de conteneurs.
 Nous sommes une équipe d'experts DevOps axés sur l'automatisation
@@ -14,14 +16,14 @@ Utilisez les meilleures pratiques.
 ## Table des matières
 
 -   [Kubernaut](#kubernauten)
-    -   [Introduction](#einleitung)
-    -   [Se joindre à](#mitmachen)
-    -   [Licence](#lizenz)
+-   [Introduction](#einleitung)
+-   [Se joindre à](#mitmachen)
+-   [Licence](#lizenz)
 
 ## Introduction
 
-Kubernetes ist eine Open-Source-Plattform zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von Container-Anwendungen.
-Es ermöglicht Entwicklern, Anwendungen in Containern zu verpacken, zu verteilen und zu skalieren, um die Bereitstellung und Verwaltung von Anwendungen zu vereinfachen.
+Kubernetes est une plateforme open source permettant d'automatiser le déploiement, la mise à l'échelle et la gestion des applications conteneurisées.
+Il permet aux développeurs de regrouper, de distribuer et de mettre à l'échelle des applications dans des conteneurs pour simplifier le déploiement et la gestion des applications.
 
 ## Se joindre à
 
