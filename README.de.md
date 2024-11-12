@@ -1,33 +1,34 @@
-# Kubernauten
+# Kubernaut
 
-> From zero to hero in Kubernetes!
-> We learn together! We grow together!
+> Von Null zum Helden in Kubernetes!
+> Wir lernen gemeinsam! Wir wachsen zusammen!
 
-Wir sind die Kubernauten und wir haben uns auf die Fahne geschrieben,
+[🇩🇪](./README.de.md)\|[🇬🇧](./README.md)\|[🇪🇸](./README.es.md)\|[🇫🇷](./README.fr.md)\|[🇮🇹](./README.it.md)
+
+Wir sind die Kubernauts und wir engagieren uns dafür
 die Welt der Container-Orchestrierung zu erobern.
-Wir sind ein Team von DevOps-Experten, die sich auf die Automatisierung
+Wir sind ein Team von DevOps-Experten mit Fokus auf Automatisierung
 von Prozessen und die Bereitstellung von Anwendungen in der Cloud
-spezialisiert haben. Wir helfen Unternehmen, ihre Infrastruktur zu modernisieren
-und ihre Anwendungen zu skalieren, indem wir die neuesten Technologien und
-Best Practices einsetzen.
+haben sich spezialisiert. Wir unterstützen Unternehmen bei der Modernisierung ihrer Infrastruktur
+und skalieren Sie Ihre Anwendungen mit den neuesten Technologien und
+Nutzen Sie Best Practices.
 
 ## Inhaltsverzeichnis
 
-- [Kubernauten](#kubernauten)
-    - [Einleitung](#einleitung)
-    - [Mitmachen](#mitmachen)
-    - [Lizenz](#lizenz)
+-   [Kubernaut](#kubernauten)
+-   [Einführung](#einleitung)
+-   [Dazu kommen](#mitmachen)
+-   [Lizenz](#lizenz)
 
-## Einleitung
+## Einführung
 
-Kubernetes ist eine Open-Source-Plattform zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von Container-Anwendungen.
-Es ermöglicht Entwicklern, Anwendungen in Containern zu verpacken, zu verteilen und zu skalieren, um die Bereitstellung und Verwaltung von Anwendungen zu vereinfachen.
+Kubernetes ist eine Open-Source-Plattform zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von Containeranwendungen.
+Es ermöglicht Entwicklern, Anwendungen in Containern zu verpacken, zu verteilen und zu skalieren, um die Anwendungsbereitstellung und -verwaltung zu vereinfachen.
 
-## Mitmachen
+## Dazu kommen
 
-Wir freuen uns über Beiträge von der Community! Wenn du einen Fehler gefunden hast oder eine Verbesserung vorschlagen möchtest, erstelle einfach ein Issue oder einen Pull Request.
+Wir freuen uns über Beiträge aus der Community! Wenn Sie einen Fehler gefunden haben oder eine Verbesserung vorschlagen möchten, erstellen Sie einfach ein Problem oder eine Pull-Anfrage.
 
 ## Lizenz
 
-[GNU GENERAL PUBLIC LICENSE](./LICENSE)
-
+[GNU ALLGEMEINE ÖFFENTLICHE LIZENZ](./LICENSE)
