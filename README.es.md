@@ -3,6 +3,8 @@
 > ¡De cero a héroe en Kubernetes!
 > ¡Aprendemos juntos! ¡Crecemos juntos!
 
+[🇩🇪](./README.de.md)\|[🇬🇧](./README.md)\|[🇪🇸](./README.es.md) \| [🇫🇷](./README.fr.md)\|[🇮🇹](./README.it.md)
+
 Somos los Kubernauts y estamos comprometidos con
 para conquistar el mundo de la orquestación de contenedores.
 Somos un equipo de expertos en DevOps enfocados en la automatización
@@ -14,9 +16,9 @@ Utilice las mejores prácticas.
 ## Tabla de contenido
 
 -   [Kubernaut](#kubernauten)
-    -   [Introducción](#einleitung)
-    -   [Participar](#mitmachen)
-    -   [Licencia](#lizenz)
+-   [Introducción](#einleitung)
+-   [Participar](#mitmachen)
+-   [Licencia](#lizenz)
 
 ## Introducción
 
