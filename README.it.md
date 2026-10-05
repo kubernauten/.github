@@ -1,32 +1,32 @@
-# Kubernauten
+# Kubernaut
 
 > Da zero a eroe in Kubernetes!
 > Impariamo insieme! Cresciamo insieme!
 
-[🇩🇪 Deutsch](./README.de.md) | [🇬🇧 English](./README.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md) | [🇮🇹 Italiano](./README.it.md)
+[🇩🇪 Tedesco](./README.de.md)\|[🇬🇧 Inglese](./README.md)\|[🇪🇸Spagnolo](./README.es.md)\|[🇫🇷 Francese](./README.fr.md)\|[🇮🇹 Italiano](./README.it.md)
 
-I Kubernauten sono un gruppo di studio che impara Kubernetes insieme,
-con approccio pratico, indipendente dai fornitori e senza richiedere conoscenze pregresse.
+I Kubernauten sono un gruppo di studio che impara insieme Kubernetes –
+pratico, indipendente dal fornitore e senza alcuna conoscenza preliminare richiesta.
 
 ## Sommario
 
-- [Cosa facciamo](#cosa-facciamo)
-- [Partecipa](#partecipa)
-- [Licenza](#licenza)
+-   [Cosa facciamo](#what-we-do)
+-   [Unisciti a noi](#join-us)
+-   [Licenza](#license)
 
 ## Cosa facciamo
 
-- **Kubernetes gestito**: lavoriamo con servizi SaaS come **AKS** (Azure) e **EKS** (AWS).
-- **Kubernetes self-hosted**: gestiamo i nostri cluster con **K3s**.
-- **Progetti di esempio e di apprendimento**: realizziamo progetti insieme per mettere in pratica i concetti.
-- **Certificazioni**: ci prepariamo insieme alle certificazioni Kubernetes.
+-   **Kubernetes gestito**: Lavoriamo con offerte SaaS come**AKS**(Azzurro) e**EX**(AWS).
+-   **Kubernetes ospitato autonomamente**: Gestiamo i nostri cluster con**Come un bastone**.
+-   **Esempi e progetti di apprendimento**: Costruiamo insieme progetti per mettere in pratica i concetti.
+-   **Certificazioni**: Prepariamo insieme le certificazioni Kubernetes.
 
-## Partecipa
+## Unisciti a noi
 
-Vuoi partecipare? Contatta una di queste persone:
+Vuoi unirti? Mettiti in contatto con uno di noi:
 
-- [Christina Friede](https://github.com/chrisfrie)
-- [André Lademann](https://github.com/vergissberlin)
+-   [Cristina Pace](https://github.com/chrisfrie)
+-   [André Lademann](https://github.com/vergissberlin)
 
 ## Licenza
 
