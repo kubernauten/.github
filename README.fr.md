@@ -1,31 +1,32 @@
-# Kubernaut
+# Kubernauten
 
-> De zéro à héros dans Kubernetes !
+> De zéro à héros dans Kubernetes !
 > On apprend ensemble ! Nous grandissons ensemble !
 
-Nous sommes les Kubernauts et nous nous engageons à
-pour conquérir le monde de l'orchestration de conteneurs.
-Nous sommes une équipe d'experts DevOps axés sur l'automatisation
-des processus et la mise à disposition d'applications dans le cloud
-se sont spécialisés. Nous aidons les entreprises à moderniser leur infrastructure
-et faites évoluer vos applications en utilisant les dernières technologies et
-Utilisez les meilleures pratiques.
+[🇩🇪 Deutsch](./README.de.md) | [🇬🇧 English](./README.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
+
+Les Kubernauten sont un groupe d'étude qui apprend Kubernetes ensemble,
+de façon pratique, indépendante des fournisseurs et sans prérequis.
 
 ## Table des matières
 
--   [Kubernaut](#kubernauten)
-    -   [Introduction](#einleitung)
-    -   [Se joindre à](#mitmachen)
-    -   [Licence](#lizenz)
+- [Ce que nous faisons](#ce-que-nous-faisons)
+- [Nous rejoindre](#nous-rejoindre)
+- [Licence](#licence)
 
-## Introduction
+## Ce que nous faisons
 
-Kubernetes ist eine Open-Source-Plattform zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von Container-Anwendungen.
-Es ermöglicht Entwicklern, Anwendungen in Containern zu verpacken, zu verteilen und zu skalieren, um die Bereitstellung und Verwaltung von Anwendungen zu vereinfachen.
+- **Kubernetes managé** : nous travaillons avec des services SaaS comme **AKS** (Azure) et **EKS** (AWS).
+- **Kubernetes auto-hébergé** : nous exploitons nos propres clusters avec **K3s**.
+- **Projets d'exemple et d'apprentissage** : nous montons des projets ensemble pour tester les concepts en pratique.
+- **Certifications** : nous nous préparons ensemble aux certifications Kubernetes.
 
-## Se joindre à
+## Nous rejoindre
 
-Nous apprécions les contributions de la communauté ! Si vous avez trouvé un bug ou souhaitez suggérer une amélioration, créez simplement un problème ou une pull request.
+Envie de participer ? Contactez l'une de ces personnes :
+
+- [Christina Friede](https://github.com/chrisfrie)
+- [André Lademann](https://github.com/vergissberlin)
 
 ## Licence
 

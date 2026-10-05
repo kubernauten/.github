@@ -3,31 +3,31 @@
 > From zero to hero in Kubernetes!
 > We learn together! We grow together!
 
-Wir sind die Kubernauten und wir haben uns auf die Fahne geschrieben,
-die Welt der Container-Orchestrierung zu erobern.
-Wir sind ein Team von DevOps-Experten, die sich auf die Automatisierung
-von Prozessen und die Bereitstellung von Anwendungen in der Cloud
-spezialisiert haben. Wir helfen Unternehmen, ihre Infrastruktur zu modernisieren
-und ihre Anwendungen zu skalieren, indem wir die neuesten Technologien und
-Best Practices einsetzen.
+[🇩🇪 Deutsch](./README.de.md) | [🇬🇧 English](./README.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
+
+Die Kubernauten sind eine Lerngruppe, die gemeinsam Kubernetes lernt –
+praxisnah, herstellerübergreifend und ohne Vorkenntnisse als Hürde.
 
 ## Inhaltsverzeichnis
 
-- [Kubernauten](#kubernauten)
-    - [Einleitung](#einleitung)
-    - [Mitmachen](#mitmachen)
-    - [Lizenz](#lizenz)
+- [Was wir machen](#was-wir-machen)
+- [Mitmachen](#mitmachen)
+- [Lizenz](#lizenz)
 
-## Einleitung
+## Was wir machen
 
-Kubernetes ist eine Open-Source-Plattform zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von Container-Anwendungen.
-Es ermöglicht Entwicklern, Anwendungen in Containern zu verpacken, zu verteilen und zu skalieren, um die Bereitstellung und Verwaltung von Anwendungen zu vereinfachen.
+- **Managed Kubernetes**: Wir arbeiten mit SaaS-Services wie **AKS** (Azure) und **EKS** (AWS).
+- **Self-hosted Kubernetes**: Wir betreiben eigene Cluster mit **K3s**.
+- **Beispiel- und Lernprojekte**: Wir setzen gemeinsam Projekte auf, an denen wir Konzepte praktisch ausprobieren.
+- **Zertifizierungen**: Wir bereiten uns gemeinsam auf Kubernetes-Zertifizierungen vor.
 
 ## Mitmachen
 
-Wir freuen uns über Beiträge von der Community! Wenn du einen Fehler gefunden hast oder eine Verbesserung vorschlagen möchtest, erstelle einfach ein Issue oder einen Pull Request.
+Du möchtest dabei sein? Melde dich bei einem von uns:
+
+- [Christina Friede](https://github.com/chrisfrie)
+- [André Lademann](https://github.com/vergissberlin)
 
 ## Lizenz
 
 [GNU GENERAL PUBLIC LICENSE](./LICENSE)
-
