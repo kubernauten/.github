@@ -1,33 +1,33 @@
-# Kubernauten
+# Kubernaut
 
-> From zero to hero in Kubernetes!
-> We learn together! We grow together!
+> Von Null zum Helden in Kubernetes!
+> Wir lernen gemeinsam! Wir wachsen zusammen!
 
-[🇩🇪 Deutsch](./README.de.md) | [🇬🇧 English](./README.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md) | [🇮🇹 Italiano](./README.it.md)
+[🇩🇪 Deutsch](./README.de.md)\|[🇬🇧 Englisch](./README.md)\|[🇪🇸 Spanisch](./README.es.md)\|[🇫🇷 Französisch](./README.fr.md)\|[🇮🇹 Italienisch](./README.it.md)
 
 Die Kubernauten sind eine Lerngruppe, die gemeinsam Kubernetes lernt –
-praxisnah, herstellerübergreifend und ohne Vorkenntnisse als Hürde.
+Praxisnah, herstellerneutral und ohne Vorkenntnisse.
 
 ## Inhaltsverzeichnis
 
-- [Was wir machen](#was-wir-machen)
-- [Mitmachen](#mitmachen)
-- [Lizenz](#lizenz)
+-   [Was wir tun](#what-we-do)
+-   [Begleiten Sie uns](#join-us)
+-   [Lizenz](#license)
 
-## Was wir machen
+## Was wir tun
 
-- **Managed Kubernetes**: Wir arbeiten mit SaaS-Services wie **AKS** (Azure) und **EKS** (AWS).
-- **Self-hosted Kubernetes**: Wir betreiben eigene Cluster mit **K3s**.
-- **Beispiel- und Lernprojekte**: Wir setzen gemeinsam Projekte auf, an denen wir Konzepte praktisch ausprobieren.
-- **Zertifizierungen**: Wir bereiten uns gemeinsam auf Kubernetes-Zertifizierungen vor.
+-   **Verwaltetes Kubernetes**: Wir arbeiten mit SaaS-Angeboten wie**AKS**(Azure) und**EX**(AWS).
+-   **Selbstgehostetes Kubernetes**: Wir betreiben unsere eigenen Cluster mit**Als Stock**.
+-   **Beispiel- und Lernprojekte**: Wir bauen gemeinsam Projekte auf, um Konzepte in der Praxis auszuprobieren.
+-   **Zertifizierungen**: Wir bereiten uns gemeinsam auf Kubernetes-Zertifizierungen vor.
 
-## Mitmachen
+## Begleiten Sie uns
 
-Du möchtest dabei sein? Melde dich bei einem von uns:
+Möchten Sie mitmachen? Nehmen Sie Kontakt mit einem von uns auf:
 
-- [Christina Friede](https://github.com/chrisfrie)
-- [André Lademann](https://github.com/vergissberlin)
+-   [Christina Friede](https://github.com/chrisfrie)
+-   [André Lademann](https://github.com/vergissberlin)
 
 ## Lizenz
 
-[GNU GENERAL PUBLIC LICENSE](./LICENSE)
+[GNU ALLGEMEINE ÖFFENTLICHE LIZENZ](./LICENSE)
