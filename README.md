@@ -1,33 +1,32 @@
-# Kubernaut
+# Kubernauten
 
 > From zero to hero in Kubernetes!
 > We learn together! We grow together!
 
-[🇩🇪](./README.de.md) | [🇬🇧](./README.md) | [🇪🇸](./README.es.md) | [🇫🇷](./README.fr.md) | [🇮🇹](./README.it.md) 
+[🇩🇪 Deutsch](./README.de.md) | [🇬🇧 English](./README.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md) | [🇮🇹 Italiano](./README.it.md)
 
-We are the Kubernauts and we are committed to
-to conquer the world of container orchestration.
-We are a team of DevOps experts focused on automation
-of processes and the provision of applications in the cloud
-have specialized. We help companies modernize their infrastructure
-and scale your applications using the latest technologies and
-Use best practices.
+The Kubernauten are a study group learning Kubernetes together –
+hands-on, vendor-neutral, and with no prior knowledge required.
 
 ## Table of contents
 
--   [Kubernaut](#kubernauten)
--   [Introduction](#einleitung)
--   [Join in](#mitmachen)
--   [License](#lizenz)
+- [What we do](#what-we-do)
+- [Join us](#join-us)
+- [License](#license)
 
-## Introduction
+## What we do
 
-Kubernetes is an open source platform for automating the deployment, scaling, and management of containerized applications.
-It allows developers to package, distribute, and scale applications in containers to simplify application deployment and management.
+- **Managed Kubernetes**: We work with SaaS offerings such as **AKS** (Azure) and **EKS** (AWS).
+- **Self-hosted Kubernetes**: We run our own clusters with **K3s**.
+- **Example and learning projects**: We build projects together to try out concepts in practice.
+- **Certifications**: We prepare for Kubernetes certifications together.
 
-## Join in
+## Join us
 
-We welcome contributions from the community! If you found a bug or want to suggest an improvement, simply create an issue or pull request.
+Want to join? Get in touch with one of us:
+
+- [Christina Friede](https://github.com/chrisfrie)
+- [André Lademann](https://github.com/vergissberlin)
 
 ## License
 

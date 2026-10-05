@@ -1,33 +1,32 @@
-# Kubernaut
+# Kubernauten
 
 > ¡De cero a héroe en Kubernetes!
 > ¡Aprendemos juntos! ¡Crecemos juntos!
 
-[🇩🇪](./README.de.md)\|[🇬🇧](./README.md)\|[🇪🇸](./README.es.md) \| [🇫🇷](./README.fr.md)\|[🇮🇹](./README.it.md)
+[🇩🇪 Deutsch](./README.de.md) | [🇬🇧 English](./README.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md) | [🇮🇹 Italiano](./README.it.md)
 
-Somos los Kubernauts y estamos comprometidos con
-para conquistar el mundo de la orquestación de contenedores.
-Somos un equipo de expertos en DevOps enfocados en la automatización
-de procesos y provisión de aplicaciones en la nube
-se han especializado. Ayudamos a las empresas a modernizar su infraestructura
-y escale sus aplicaciones utilizando las últimas tecnologías y
-Utilice las mejores prácticas.
+Los Kubernauten son un grupo de estudio que aprende Kubernetes en conjunto,
+con enfoque práctico, sin depender de un proveedor y sin exigir conocimientos previos.
 
 ## Tabla de contenido
 
--   [Kubernaut](#kubernauten)
--   [Introducción](#einleitung)
--   [Participar](#mitmachen)
--   [Licencia](#lizenz)
+- [Qué hacemos](#qué-hacemos)
+- [Participar](#participar)
+- [Licencia](#licencia)
 
-## Introducción
+## Qué hacemos
 
-Kubernetes es una plataforma de código abierto para automatizar la implementación, el escalado y la gestión de aplicaciones en contenedores.
-Permite a los desarrolladores empaquetar, distribuir y escalar aplicaciones en contenedores para simplificar la implementación y administración de aplicaciones.
+- **Kubernetes gestionado**: Trabajamos con servicios SaaS como **AKS** (Azure) y **EKS** (AWS).
+- **Kubernetes autoalojado**: Operamos nuestros propios clústeres con **K3s**.
+- **Proyectos de ejemplo y de aprendizaje**: Montamos proyectos juntos para probar conceptos en la práctica.
+- **Certificaciones**: Nos preparamos juntos para las certificaciones de Kubernetes.
 
 ## Participar
 
-¡Agradecemos las contribuciones de la comunidad! Si encontró un error o desea sugerir una mejora, simplemente cree un problema o una solicitud de extracción.
+¿Quieres participar? Ponte en contacto con una de estas personas:
+
+- [Christina Friede](https://github.com/chrisfrie)
+- [André Lademann](https://github.com/vergissberlin)
 
 ## Licencia
 

@@ -1,34 +1,33 @@
-# Kubernaut
+# Kubernauten
 
-> Von Null zum Helden in Kubernetes!
-> Wir lernen gemeinsam! Wir wachsen zusammen!
+> From zero to hero in Kubernetes!
+> We learn together! We grow together!
 
-[🇩🇪](./README.de.md)\|[🇬🇧](./README.md)\|[🇪🇸](./README.es.md)\|[🇫🇷](./README.fr.md)\|[🇮🇹](./README.it.md)
+[🇩🇪 Deutsch](./README.de.md) | [🇬🇧 English](./README.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md) | [🇮🇹 Italiano](./README.it.md)
 
-Wir sind die Kubernauts und wir engagieren uns dafür
-die Welt der Container-Orchestrierung zu erobern.
-Wir sind ein Team von DevOps-Experten mit Fokus auf Automatisierung
-von Prozessen und die Bereitstellung von Anwendungen in der Cloud
-haben sich spezialisiert. Wir unterstützen Unternehmen bei der Modernisierung ihrer Infrastruktur
-und skalieren Sie Ihre Anwendungen mit den neuesten Technologien und
-Nutzen Sie Best Practices.
+Die Kubernauten sind eine Lerngruppe, die gemeinsam Kubernetes lernt –
+praxisnah, herstellerübergreifend und ohne Vorkenntnisse als Hürde.
 
 ## Inhaltsverzeichnis
 
--   [Kubernaut](#kubernauten)
--   [Einführung](#einleitung)
--   [Dazu kommen](#mitmachen)
--   [Lizenz](#lizenz)
+- [Was wir machen](#was-wir-machen)
+- [Mitmachen](#mitmachen)
+- [Lizenz](#lizenz)
 
-## Einführung
+## Was wir machen
 
-Kubernetes ist eine Open-Source-Plattform zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von Containeranwendungen.
-Es ermöglicht Entwicklern, Anwendungen in Containern zu verpacken, zu verteilen und zu skalieren, um die Anwendungsbereitstellung und -verwaltung zu vereinfachen.
+- **Managed Kubernetes**: Wir arbeiten mit SaaS-Services wie **AKS** (Azure) und **EKS** (AWS).
+- **Self-hosted Kubernetes**: Wir betreiben eigene Cluster mit **K3s**.
+- **Beispiel- und Lernprojekte**: Wir setzen gemeinsam Projekte auf, an denen wir Konzepte praktisch ausprobieren.
+- **Zertifizierungen**: Wir bereiten uns gemeinsam auf Kubernetes-Zertifizierungen vor.
 
-## Dazu kommen
+## Mitmachen
 
-Wir freuen uns über Beiträge aus der Community! Wenn Sie einen Fehler gefunden haben oder eine Verbesserung vorschlagen möchten, erstellen Sie einfach ein Problem oder eine Pull-Anfrage.
+Du möchtest dabei sein? Melde dich bei einem von uns:
+
+- [Christina Friede](https://github.com/chrisfrie)
+- [André Lademann](https://github.com/vergissberlin)
 
 ## Lizenz
 
-[GNU ALLGEMEINE ÖFFENTLICHE LIZENZ](./LICENSE)
+[GNU GENERAL PUBLIC LICENSE](./LICENSE)
