@@ -3,7 +3,7 @@
 > From zero to hero in Kubernetes!
 > We learn together! We grow together!
 
-[🇩🇪 Deutsch](./README.de.md) | [🇬🇧 English](./README.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
+[🇩🇪 Deutsch](./README.de.md) | [🇬🇧 English](./README.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md) | [🇮🇹 Italiano](./README.it.md)
 
 The Kubernauten are a study group learning Kubernetes together –
 hands-on, vendor-neutral, and with no prior knowledge required.

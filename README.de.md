@@ -3,7 +3,7 @@
 > From zero to hero in Kubernetes!
 > We learn together! We grow together!
 
-[🇩🇪 Deutsch](./README.de.md) | [🇬🇧 English](./README.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md)
+[🇩🇪 Deutsch](./README.de.md) | [🇬🇧 English](./README.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md) | [🇮🇹 Italiano](./README.it.md)
 
 Die Kubernauten sind eine Lerngruppe, die gemeinsam Kubernetes lernt –
 praxisnah, herstellerübergreifend und ohne Vorkenntnisse als Hürde.
