@@ -1,32 +1,32 @@
-# Kubernauten
+# Kubernaut
 
-> De zéro à héros dans Kubernetes !
+> De zéro à héros dans Kubernetes !
 > On apprend ensemble ! Nous grandissons ensemble !
 
-[🇩🇪 Deutsch](./README.de.md) | [🇬🇧 English](./README.md) | [🇪🇸 Español](./README.es.md) | [🇫🇷 Français](./README.fr.md) | [🇮🇹 Italiano](./README.it.md)
+[🇩🇪 Allemand](./README.de.md)\|[🇫🇷 Anglais](./README.md)\|[Espagnol](./README.es.md)\|[🇫🇷 Français](./README.fr.md)\|[🇮🇹 italien](./README.it.md)
 
-Les Kubernauten sont un groupe d'étude qui apprend Kubernetes ensemble,
-de façon pratique, indépendante des fournisseurs et sans prérequis.
+Les Kubernauten sont un groupe d’étude qui apprend Kubernetes ensemble –
+pratique, indépendant du fournisseur et sans aucune connaissance préalable requise.
 
 ## Table des matières
 
-- [Ce que nous faisons](#ce-que-nous-faisons)
-- [Nous rejoindre](#nous-rejoindre)
-- [Licence](#licence)
+-   [Ce que nous faisons](#what-we-do)
+-   [Rejoignez-nous](#join-us)
+-   [Licence](#license)
 
 ## Ce que nous faisons
 
-- **Kubernetes managé** : nous travaillons avec des services SaaS comme **AKS** (Azure) et **EKS** (AWS).
-- **Kubernetes auto-hébergé** : nous exploitons nos propres clusters avec **K3s**.
-- **Projets d'exemple et d'apprentissage** : nous montons des projets ensemble pour tester les concepts en pratique.
-- **Certifications** : nous nous préparons ensemble aux certifications Kubernetes.
+-   **Kubernetes géré**: Nous travaillons avec des offres SaaS telles que**AK**(Azur) et**EX**(AWS).
+-   **Kubernetes auto-hébergé**: Nous gérons nos propres clusters avec**Comme un bâton**.
+-   **Exemples et projets d'apprentissage**: Nous construisons des projets ensemble pour tester les concepts en pratique.
+-   **Certifications**: Nous préparons ensemble les certifications Kubernetes.
 
-## Nous rejoindre
+## Rejoignez-nous
 
-Envie de participer ? Contactez l'une de ces personnes :
+Vous voulez nous rejoindre ? Prenez contact avec l'un de nous :
 
-- [Christina Friede](https://github.com/chrisfrie)
-- [André Lademann](https://github.com/vergissberlin)
+-   [Christine Paix](https://github.com/chrisfrie)
+-   [André Lademann](https://github.com/vergissberlin)
 
 ## Licence
 
